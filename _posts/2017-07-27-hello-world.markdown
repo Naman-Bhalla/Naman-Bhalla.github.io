@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World !!!"
 date:   2017-07-27 20:21:00 +0530
-categories: introduction personal
+categories: personal
 ---
 Alright, Hello World !!! (Well, this became my favourite set of words when I heard them from [David J. Malan](http://cs.harvard.edu/malan/) when I took [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) 2015 at EdX, my first formal course in CS.)
 
