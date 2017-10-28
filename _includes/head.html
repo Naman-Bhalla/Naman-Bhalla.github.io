@@ -9,4 +9,14 @@
     {% include google-analytics.html %}
   {% endif %}
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.keywords %}
+ <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+ <meta name="keywords" content="Naman Bhalla, Naman Bhalla XDA, Naman Bhalla OnePlus, namanbhalla.in, Naman Bhalla BMU, BML Munjal University, Github" />
+ {% endif %}
+ {% if site.name %}
+  <meta name="author" content="{{ site.name }}">
+  <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
+  {% endif %}
 </head>

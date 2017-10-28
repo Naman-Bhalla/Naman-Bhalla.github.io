@@ -15,6 +15,8 @@ Python has always been my favourite language. I use it day in and day out for my
 
 So, welcome !! I hope this would be a knowledge enriching blog for one and for all, including me.
 
+{% include  share.html %}
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>

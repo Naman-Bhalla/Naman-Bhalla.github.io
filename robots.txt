@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://namanbhalla.in/sitemap.xml

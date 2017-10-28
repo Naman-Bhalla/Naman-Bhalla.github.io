@@ -4,6 +4,8 @@ title: "Graphs and their Representations"
 date: 2017-10-17 16:53:00 +0530
 categories: data-structures-and-algorithms
 comments: true
+description: Introduction to Graphs and their Representations
+keywords: Graph, Graph Data Structure, Python Graph, Adjacency List, Adjacency Matrix, Code
 ---
 
 In this post, I am going to talk about the Graph Data Structure and various ways in which Graphs can be represented, alongwith their Pros and Cons. We shall also be implementing one such representation here - **"Adjacency List"** in Python.
@@ -70,6 +72,8 @@ I feel the post can't be complete till it gives you various real life applicatio
 So, with this, I end the post. I hope it gave you a pretty good sense of what Graph is and prepares you for the various Graph algorithms I shall be discussing in my future posts. Looking forward to your feedback. I will be focussing on Graph related posts for this whole week. And probably, a few on NLP and Deep Learning too, if possible.
 
 Regards.
+
+{% include  share.html %}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
